@@ -10,10 +10,17 @@ h1 {
 	color: #3f3d56;
 	line-height: 40px;
 	margin-bottom: 16px;
+	font-weight: 500;
+	text-shadow: 0px 4px 4px
+	 rgba(0, 0, 0, 0.25);
 }
 
 h1 span {
+	font-family: "Dosis", sans-serif;
+	font-weight: 700;
 	color: #ee24ff;
+	text-shadow: 0px 4px 4px
+	 rgba(0, 0, 0, 0.25)
 }
 
 p {
@@ -21,10 +28,12 @@ p {
 	font-size: 15px;
 	line-height: 22px;
 	width: 540;
+	font-weight: 400;
 }
 
 p .colorir {
 	color: #3f3d56;
+	font-weight: 700;
 }
 
 #main {
